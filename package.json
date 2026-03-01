@@ -1,0 +1,29 @@
+{
+  "name": "reel",
+  "description": "Enhanced Remotion Skill with Apple-inspired design system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio"
+  },
+  "devDependencies": {
+    "remotion": "^4.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@remotion/cli": "^4.0.0",
+    "@remotion/bundler": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
+    "@remotion/captions": "^4.0.0",
+    "@remotion/media": "^4.0.0",
+    "@remotion/shapes": "^4.0.0",
+    "@remotion/three": "^4.0.0",
+    "@remotion/lottie": "^4.0.0",
+    "@remotion/media-utils": "^4.0.0",
+    "@remotion/paths": "^4.0.0",
+    "@remotion/layout-utils": "^4.0.0",
+    "@remotion/light-leaks": "^4.0.0",
+    "@remotion/sfx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

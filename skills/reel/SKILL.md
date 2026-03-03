@@ -52,6 +52,9 @@ Load files based on what the user needs:
 **Wants parametrizable videos with schemas?**
 → Load [layer-1-api/advanced/parameters.md](layer-1-api/advanced/parameters.md)
 
+**Designing for a specific platform (TikTok, YouTube, mobile, TV)?**
+→ Load [layer-3-design/platform-adaptive.md](layer-3-design/platform-adaptive.md)
+
 ## Layer 1 — API Rules
 
 Core framework knowledge. Load these when the user needs specific Remotion API guidance.
@@ -125,6 +128,7 @@ Apple-inspired design system with modern flourishes. Load these for visual quali
 - [layer-3-design/glassmorphism.md](layer-3-design/glassmorphism.md) — Frosted glass, material effects, backdrop-filter
 - [layer-3-design/micro-interactions.md](layer-3-design/micro-interactions.md) — Counters, progress, highlights, subtle effects
 - [layer-3-design/dark-light-themes.md](layer-3-design/dark-light-themes.md) — Theme system with createTheme() utility
+- [layer-3-design/platform-adaptive.md](layer-3-design/platform-adaptive.md) — Platform-aware design for mobile, desktop, social, and large screens
 
 ## Layer 4 — Templates
 
